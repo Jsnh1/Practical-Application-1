@@ -11,3 +11,5 @@ Findings:
 6. Total coupon acceptance rate is ~57%
 7. The most used coupons are for Coffee House
 8. The least used coupons are Resturaunts between 20-50 dollars
+
+Attached files are the codes plus data set and findings.
